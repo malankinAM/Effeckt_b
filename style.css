@@ -1,0 +1,17 @@
+* {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background: rgb(8, 8, 8);
+      }
+      h1{ text-align:center; font-size:200%;
+      font-family:serif; font-weight:normal;font-style:italic;
+      margin:1em 0; line-height:150%;
+      color:#ffffff;}
+      canvas {
+        display:block;
+        margin:0px auto;
+        border:1px solid #111211;
+        background-image: url(./img/1.jpg);
+        mix-blend-mode: difference;
+      }
