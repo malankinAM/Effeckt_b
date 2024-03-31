@@ -8,5 +8,5 @@
  
 
 
-## Click ('')
+## Click ('https://malankinam.github.io/Effeckt_b/')
  <img src="./img/screencapture-127-0-0-1-5500-Index-html-2024-03-30-14_25_10.png" title="css"  width="850px" height="550px"/>
